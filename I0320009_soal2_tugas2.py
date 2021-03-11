@@ -6,12 +6,12 @@ kelas = "A"
 prodi = "Teknik Industri"
 universitas = "Universitas Sebelas Maret"
 asalkota = "Bekasi"
-komplek = "Duta Bumi, Harapan Indah"
+kompleks = "Duta Bumi, Harapan Indah"
 hobi = "menari dan mendengarkan musik"
 print("Perkenalkan nama saya", str(namalengkap)+", biasa dipanggil", str(namapanggilan)+".")
 print("NIM saya", nim, "dari kelas",str(kelas)+".")
 print("Saya dari prodi", prodi, "di", str(universitas)+".")
-print("Saya berasal dari Kota", asalkota, "tepatnya di", str(komplek)+".")
+print("Saya berasal dari Kota", asalkota, "tepatnya di", str(kompleks)+".")
 print("Saya memiliki hobi yaitu", str(hobi)+".")
 
 #Memasukkan tanggal lahir dan umur
